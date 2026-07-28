@@ -88,21 +88,6 @@ This project answers the following questions:
 
 ---
 
-## Project Files
-
-```text
-sql-customer-risk-analysis/
-│
-├── README.md
-├── customer_risk_analysis.sql
-├── customers.csv
-├── risk_scores.csv
-├── transactions.csv
-└── images/
-```
-
----
-
 ## Sample Analysis
 
 ### Example Question
